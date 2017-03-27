@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimplifySE:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimplifySE_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SimplifySE/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimplifySE" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="JUnit4" module-name="SimplifySE" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/cpdetector_1.0.10_binary/cpdetector_1.0.10.jar" />
+          <element id="library" level="project" name="cpdetectpr-ext" />
+          <element id="library" level="project" name="pdfbox-app-2.0.5" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.41-bin" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

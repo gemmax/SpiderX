@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cpdetectpr-ext">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/cpdetector_1.0.10_binary/ext" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/cpdetector_1.0.10_binary/ext" recursive="false" />
+  </library>
+</component>
